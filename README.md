@@ -1,4 +1,4 @@
-# Dashboard Financeiro — Mara Nery
+# Dashboard Financeiro 
 
 ## Visão Geral
 
